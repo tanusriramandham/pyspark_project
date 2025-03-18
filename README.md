@@ -7,3 +7,5 @@ Conclusion: Which product categories generate the most revenue What are the key 
 Overview
 
 This project implements an ETL (Extract, Transform, Load) pipeline for e-commerce analytics using PySpark in Databricks. The pipeline processes raw e-commerce transaction data, performs transformations, and generates insights such as customer spending behavior, product popularity, and shipping performance.
+
+note: I have displayed only 10 rows with df.limit(10).display for easy readbility and access.
